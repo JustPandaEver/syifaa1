@@ -562,7 +562,7 @@ const froxx = {
 		"extendedTextMessage": {
                  "text": `New Base By Rakun Official`,
                  "title": `New Base By Rakun Official`,
-                 'jpegThumbnail': fs.readFileSync("./lib/RAKUN.jpg"),
+                 'jpegThumbnail': fs.readFileSync("./lib/Rakun.jpg"),
                         }
 	                  } 
                      }
