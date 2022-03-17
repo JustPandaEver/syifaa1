@@ -10,7 +10,7 @@
 ## FOR RERMUX TERMINAL
 ```bash
 git clone https://github.com/winorohadimukti/syifaa.git
-cd syifaa
+cd syfiraa
 npm install -g pm2
 pm2 start syfiraa.js
 pm2 start main.js
