@@ -41,10 +41,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jollymax.git"
+    "url": "git+https://github.com/winorohadimukti/syifaa.git"
   },
   "bugs": {
-    "url": "https://github.com/jollymax/issues"
+    "url": "https://github.com/winorohadimukti/issues"
   },
-  "homepage": "https://github.com/jollymax/babybot#readme"
+  "homepage": "https://github.com/winorohadimukti/syifaa#readme"
 }
