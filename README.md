@@ -12,7 +12,7 @@
 git clone https://github.com/winorohadimukti/syifaa.git
 cd syifaa
 npm install -g pm2
-pm2 start syfiraa.js
+pm2 start Syifa.js
 pm2 start main.js
 pm2 save
 pm2 monit
