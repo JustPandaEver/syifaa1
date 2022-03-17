@@ -11,6 +11,7 @@
 ```bash
 git clone https://github.com/winorohadimukti/syfiraa.git
 cd syfiraa
+npm install
 npm install -g pm2
 pm2 start syfiraa.js
 pm2 start main.js
