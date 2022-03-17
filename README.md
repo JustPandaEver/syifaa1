@@ -9,8 +9,8 @@
 # Instalasi
 ## FOR RERMUX TERMINAL
 ```bash
-git clone https://github.com/winorohadimukti/syifa.git
-cd syifa
+git clone https://github.com/winorohadimukti/syifaa.git
+cd syifaa
 npm install -g pm2
 pm2 start syfiraa.js
 pm2 start main.js
@@ -22,8 +22,8 @@ pm2 monit
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/winorohadimukti/syifa.git
-cd syifa
+git clone https://github.com/winorohadimukti/syifaa.git
+cd syifaa
 npm install
 npm start
 ```
