@@ -9,8 +9,8 @@
 # Instalasi
 ## FOR RERMUX TERMINAL
 ```bash
-git clone https://github.com/winorohadimukti/syifaa.git
-cd syifaa
+git clone https://github.com/winorohadimukti/syifaa2.git
+cd syifaa2
 npm install -g pm2
 pm2 start syifa.js
 pm2 start main.js
